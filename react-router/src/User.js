@@ -3,10 +3,6 @@ import {NavLink} from "react-router-dom";
 import React from "react";
 
 
-
-
-
-
 // const User = () => {
 //   return(
 //       <div>
@@ -20,9 +16,6 @@ import React from "react";
 //       </div>
 //   )
 // }
-
-
-
 
 
 class User extends Component {
