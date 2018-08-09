@@ -2,13 +2,9 @@ import {Component} from "react";
 import React from "react";
 
 
-
-
 // const Login = () => {
 //     return <h1>Welcome to Login</h1>
 // }
-
-
 
 
 class Login extends Component {
